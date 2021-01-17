@@ -10,9 +10,9 @@ body
 
 #cabecera
 {
-    background: turquoise;
+    background:blue;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: blue;
+    color:turquoise;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
